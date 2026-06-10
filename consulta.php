@@ -62,7 +62,7 @@ try {
 
         <div class="d-flex justify-content-between align-items-center my-4">
             <h3 class="mb-0">Consulta de Pontos</h3>
-            <a href="index.php" class="btn btn-outline-secondary btn-sm">Voltar</a>
+            <a href="gerar-qr.html" class="btn btn-outline-secondary btn-sm">Voltar</a>
         </div>
 
         <?php if ($erro): ?>
